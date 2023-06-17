@@ -53,6 +53,7 @@ ul {
 }
 
 ul li a {
+  color: var(--purple);
   display: flex;
   text-decoration: none;
   justify-content: center;
